@@ -42,7 +42,7 @@ The `mlflow_logs` directory contains comprehensive tracking data for all experim
 ## Accessing MLflow Logs
 
 ### Download from Google Drive
-The MLflow tracking data is available at:
+The MLflow tracking is available at:
 [MLflow Logs - Google Drive](https://drive.google.com/drive/folders/1YJP3wNBcTx65KjdBwP8PlxtRpQUTD_JO?usp=sharing)
 
 To use the logs:
